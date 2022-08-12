@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>radar_visualization</name>
-  <version>1.0</version>
+  <version>1.0.0</version>
   <description>package for visualization of radar sensor data including a node for simulating the according messages</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
